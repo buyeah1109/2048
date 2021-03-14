@@ -1,5 +1,7 @@
 *.sln
 *.csproj
+.vscode/
+.DS_Store
 /Temp
 .vs
 # This .gitignore file should be placed at the root of your Unity project directory
